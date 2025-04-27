@@ -1,5 +1,8 @@
 # AI Safety Incident Dashboard
 
+### Deployed Link: https://job-hunt-one-kappa.vercel.app/
+### GitHub Link: https://github.com/vineetkrsingh769/ai-safety-dashboard-ui
+
 ## 🚀 Project Description
 
 This project is a **Frontend Take-Home Assignment** for an AI Safety Startup (HumanChain).  
