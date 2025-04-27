@@ -12,18 +12,7 @@ It is a **ReactJS** based interactive **AI Safety Incident Dashboard** that allo
 - **Report New Incidents** using a form with validation.
 - **Manage state locally** without any backend (all data is session-based).
 
-The dashboard is styled with a clean, responsive design using modern layout techniques (Flexbox/Grid).
-
-This project aligns with the mission of HumanChain: _"Building a safer, more trustworthy, and human-centric digital world through AI safety."_
-
----
-
-## 🛠️ Tech Stack
-
-- **React.js** (JavaScript library)
-- **CSS3** (for styling and responsive design)
-- **Vite** (for project bundling and development server)
-- **State Management:** Local component state using React hooks (`useState`, `useEffect`).
+The dashboard is styled with a clean, responsive design using modern layout techniques 
 
 ---
 
@@ -39,8 +28,6 @@ This project aligns with the mission of HumanChain: _"Building a safer, more tru
 ![Report New Incident](./public/3.png)
 
 
-> 🖼️ Replace `path-to-images` with the actual folder where you place the screenshots.
-
 ---
 
 ## 🧩 Features
@@ -53,9 +40,25 @@ This project aligns with the mission of HumanChain: _"Building a safer, more tru
 - ✅ Fully responsive and accessible design.
 
 ---
+## Installation and Setup
 
-## 📂 Installation Instructions
+Follow these steps to set up the project locally:
 
-### 1. Clone the repository
+### Prerequisites
+
+- Node.js and npm should be installed on your system.
+
+### Steps
+
 ```bash
-git clone <Your-GitHub-Link-Here>
+# Clone the repository
+git clone https://github.com/vineetkrsingh769/JobHunt_.git
+
+# Navigate into the project directory
+cd Jobringer
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
