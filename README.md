@@ -30,13 +30,14 @@ This project aligns with the mission of HumanChain: _"Building a safer, more tru
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](./path-to-images/Screenshot-1.png)
-
-### Incident Reporting Form
-![Report New Incident](./path-to-images/Screenshot-2.png)
+![Dashboard Overview](./public/1.png)
 
 ### Filtering and Sorting
-![Filter and Sort](./path-to-images/Screenshot-3.png)
+![Filter and Sort](./public/2.png)
+
+### Incident Reporting Form
+![Report New Incident](./public/3.png)
+
 
 > 🖼️ Replace `path-to-images` with the actual folder where you place the screenshots.
 
